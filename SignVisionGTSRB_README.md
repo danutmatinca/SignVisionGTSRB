@@ -4,10 +4,13 @@
 
 Dieses Projekt implementiert ein Convolutional Neural Network (CNN) zur Erkennung deutscher Verkehrsschilder basierend auf dem **German Traffic Sign Recognition Benchmark (GTSRB)**.  
 Es enthält ein ausführbares Notebook sowie Anleitungen für Colab, Binder, GitHub Codespaces und die lokale Nutzung – inkl. klarer Schritte zum Download der GTSRB-Daten (Kaggle API).
-
+---
+## Beispiel-Ausgaben
+Für eine komplette Übersicht, wie das Notebook ausgeführt wird und welche Ergebnisse (Accuracy, Confusion Matrix, Plots etc.) entstehen, siehe:
+➡️ [Colab-Run mit Outputs](docs/SignVisionGTSRB_Colab_Outputs.pdf)
 ---
 
-## 📌 Features
+## Features
 
 - Datenimport aus GTSRB (Kaggle) – CSV/Ordner-Struktur
 - Daten-Pipeline inkl. Normalisierung & (optional) Augmentierung
@@ -21,36 +24,36 @@ Es enthält ein ausführbares Notebook sowie Anleitungen für Colab, Binder, Git
 
 ---
 
-## 🚀 Schnell testen – im Browser
+## Schnell testen – im Browser
 
-### ▶️ Mit Google Colab testen
+### ▶ Mit Google Colab testen
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danutmatinca/SignVisionGTSRB/blob/main/SignVisionGTSRB.ipynb)  
 - Benötigt einen **Google-Account**.
 - Läuft sofort im Browser, optional mit GPU/TPU (kostenlos, limitiert).
 - Keine lokale Installation nötig.
 
-### ▶️ Mit Binder testen
+### ▶ Mit Binder testen
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danutmatinca/SignVisionGTSRB/HEAD?filepath=SignVisionGTSRB.ipynb)  
 - **Kein Login erforderlich.**
 - Start kann 1–2 Minuten dauern (Umgebung wird gebaut).
 - Änderungen gehen nach der Session verloren.
 
-### ▶️ Mit GitHub Codespaces testen
+### ▶ Mit GitHub Codespaces testen
 - In GitHub: **Code → Open with Codespaces**.
 - Benötigt **GitHub-Account**.
 - Vollwertige Cloud-IDE (VS Code im Browser), Freikontingent zeitlich limitiert.
 
 ---
 
-## 🧩 Notebook & Beispielausgaben
+## Notebook & Beispielausgaben
 
 - Notebook: `SignVisionGTSRB.ipynb` (Repo-Root)
 - Beispiel-Outputs (Accuracy, Confusion Matrix, Plots):  
-  📄 `docs/SignVisionGTSRB_Colab_Outputs.pdf`
+   `docs/SignVisionGTSRB_Colab_Outputs.pdf`
 
 ---
 
-## 📊 GTSRB-Daten beziehen (Kaggle)
+## GTSRB-Daten beziehen (Kaggle)
 
 Du hast zwei Wege: **(A) Colab + Kaggle API** (empfohlen) oder **(B) Download über Website & lokal ablegen**.
 
@@ -88,7 +91,7 @@ Du hast zwei Wege: **(A) Colab + Kaggle API** (empfohlen) oder **(B) Download ü
 
 ---
 
-## 🧪 Projekt lokal ausführen
+## Projekt lokal ausführen
 
 ### Voraussetzungen
 - Python 3.10+  
@@ -116,7 +119,7 @@ jupyter notebook SignVisionGTSRB.ipynb
 
 ---
 
-## 🧠 (Optional) Python-Variante ohne Notebook
+### Python-Variante ohne Notebook
 
 Falls du die Python-CLI nutzen möchtest (später erweiterbar, z. B. in `src/`):
 
@@ -136,7 +139,7 @@ Falls du die Python-CLI nutzen möchtest (später erweiterbar, z. B. in `src/`
 
 ---
 
-## 📁 Repository-Struktur (Empfehlung)
+## Repository-Struktur (Empfehlung)
 
 ```
 SignVisionGTSRB/
@@ -187,7 +190,7 @@ Thumbs.db
 
 ---
 
-## 🔐 Sicherheit & gute Praxis
+## Sicherheit & gute Praxis
 
 - **API-Keys/`kaggle.json` niemals committen.**  
 - Notebook-Ausgaben vor dem Commit prüfen (keine Geheimnisse anzeigen).  
@@ -195,7 +198,7 @@ Thumbs.db
 
 ---
 
-## 📚 Datenquelle & Lizenzen
+## Datenquelle & Lizenzen
 
 - **GTSRB Dataset** – German Traffic Sign Recognition Benchmark  
   https://benchmark.ini.rub.de/gtsrb_news.html  
@@ -206,11 +209,11 @@ Thumbs.db
 
 ---
 
-## ❓Support
+## Support
 
 Fragen oder Vorschläge?  
 Issues & Diskussionen gern über GitHub **Issues** im Repo.
 
 --- 
 
-*Viel Erfolg und viel Spaß beim Trainieren & Testen! 🛣️🧠*
+*Viel Erfolg und viel Spaß beim Trainieren & Testen! 
