@@ -208,13 +208,6 @@ Thumbs.db
 - **Lizenz dieses Projekts:** siehe [`LICENSE`](LICENSE) (MIT)  
 - **Drittanbieter-Lizenzen:** siehe [`THIRD_PARTY_LICENSES.md`](THIRD_PARTY_LICENSES.md)
 
----
-
-## Support
-
-Fragen oder Vorschläge?  
-Issues & Diskussionen gern über GitHub **Issues** im Repo.
-
 --- 
 
 *Viel Erfolg und viel Spaß beim Trainieren & Testen! 
