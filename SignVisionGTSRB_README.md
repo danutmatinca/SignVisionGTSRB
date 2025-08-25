@@ -26,19 +26,19 @@ Für eine komplette Übersicht, wie das Notebook ausgeführt wird und welche Erg
 
 ## Schnell testen – im Browser
 
-### ▶ Mit Google Colab testen
+### ▶️ Mit Google Colab testen
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danutmatinca/SignVisionGTSRB/blob/main/SignVisionGTSRB.ipynb)  
 - Benötigt einen **Google-Account**.
 - Läuft sofort im Browser, optional mit GPU/TPU (kostenlos, limitiert).
 - Keine lokale Installation nötig.
 
-### ▶ Mit Binder testen
+### ▶️ Mit Binder testen
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danutmatinca/SignVisionGTSRB/HEAD?filepath=SignVisionGTSRB.ipynb)  
 - **Kein Login erforderlich.**
 - Start kann 1–2 Minuten dauern (Umgebung wird gebaut).
 - Änderungen gehen nach der Session verloren.
 
-### ▶ Mit GitHub Codespaces testen
+### ▶️ Mit GitHub Codespaces testen
 - In GitHub: **Code → Open with Codespaces**.
 - Benötigt **GitHub-Account**.
 - Vollwertige Cloud-IDE (VS Code im Browser), Freikontingent zeitlich limitiert.
