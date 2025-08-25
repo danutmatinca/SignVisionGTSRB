@@ -12,6 +12,12 @@
 - 📊 **GTSRB Daten:** [Kaggle Dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
 
+<p align="center">
+  <img src="banner.png" alt="SignVisionGTSRB Banner" width="80%">
+</p>
+
+
+
 # 🚦 SignVisionGTSRB
 
 **Verkehrszeichenerkennung mit CNN (GTSRB-Datensatz)**
