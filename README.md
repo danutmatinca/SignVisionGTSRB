@@ -1,5 +1,6 @@
 [README.md](https://github.com/user-attachments/files/21960784/README.md)
 # SignVisionGTSRB
+📄 Beispiel-Ausgaben: [Colab-Run mit Outputs](docs/SignVisionGTSRB_Colab_Outputs.pdf)
 
 **Verkehrszeichenerkennung mit CNN (GTSRB-Datensatz)**
 
