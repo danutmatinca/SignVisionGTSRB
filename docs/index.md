@@ -13,7 +13,7 @@
 
 
 # Vorschau - Beispielausgaben findest in der PDF:  
-**[SignVisionGTSRB_Colab_Outputs.pdf](SignVisionGTSRB_Colab_Outputs.pdf)
+**[SignVisionGTSRB_Colab_Outputs.pdf](SignVisionGTSRB_Colab_Outputs.pdf)**
 
 
 
