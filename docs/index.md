@@ -11,6 +11,8 @@
 - 📄 **Beispiel-Outputs:** [Colab_Outputs.pdf](SignVisionGTSRB_Colab_Outputs.pdf)  
 - 📊 **GTSRB Daten:** [Kaggle Dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
+
+
 # 📸 Vorschau - Beispielausgaben findest in der PDF:
 
 [SignVisionGTSRB_Colab_Outputs.pdf](SignVisionGTSRB_Colab_Outputs.pdf)  
