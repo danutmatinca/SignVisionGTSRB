@@ -4,9 +4,10 @@
 
 Dieses Projekt implementiert ein Convolutional Neural Network (CNN) zur Erkennung deutscher Verkehrsschilder basierend auf dem **German Traffic Sign Recognition Benchmark (GTSRB)**.  
 Es enthält ein ausführbares Notebook sowie Anleitungen für Colab, Binder, GitHub Codespaces und die lokale Nutzung – inkl. klarer Schritte zum Download der GTSRB-Daten (Kaggle API).
----
+===
 ## Beispiel-Ausgaben
 Für eine komplette Übersicht, wie das Notebook ausgeführt wird und welche Ergebnisse (Accuracy, Confusion Matrix, Plots etc.) entstehen, siehe:
+
 ➡️ [Colab-Run mit Outputs](docs/SignVisionGTSRB_Colab_Outputs.pdf)
 ---
 
