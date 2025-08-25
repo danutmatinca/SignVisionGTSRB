@@ -1,8 +1,8 @@
 # SignVisionGTSRB
 
-**Verkehrszeichenerkennung mit CNN (GTSRB-Datensatz)**
+*Verkehrszeichenerkennung mit CNN (GTSRB-Datensatz)*
 
-Dieses Projekt implementiert ein Convolutional Neural Network (CNN) zur Erkennung deutscher Verkehrsschilder basierend auf dem **German Traffic Sign Recognition Benchmark (GTSRB)**.  
+Dieses Projekt implementiert ein Convolutional Neural Network (CNN) zur Erkennung deutscher Verkehrsschilder basierend auf dem **German Traffic Sign Recognition Benchmark (GTSRB)*.  
 Es enthält ein ausführbares Notebook sowie Anleitungen für Colab, Binder, GitHub Codespaces und die lokale Nutzung – inkl. klarer Schritte zum Download der GTSRB-Daten (Kaggle API).
 ---
 ## Beispiel-Ausgaben
